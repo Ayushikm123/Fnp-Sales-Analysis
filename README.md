@@ -1,1 +1,2 @@
 # Fnp-Sales-Analysis Project
+This project focuses on creating a dynamic and interactive Sales Analysis Dashboard for Ferns N Petals (FnP), a leading e-commerce platform for gifting solutions. The objective was to analyse sales performance across various dimensions such as occasions, cities, products, months, categories, and time of order, using real-world data to uncover actionable business insights. 
